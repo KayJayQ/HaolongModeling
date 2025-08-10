@@ -23,7 +23,7 @@ Model is built with Blender, and parts are splited by GameObject entries.
 | Dockport as reference | KIU Proactive Docker Asset |
 
 ## Why I release this model?
-I'v been playing KSP for 8 years, and got many supports as well as beautiful mods from community, it's time to do some contribution. However, the project takes more efforts and time than I was expected, but I have to focus on my full time work.
+I'v been playing KSP for 8 years, and got many supports as well as beautiful mods from community, it's time to do some contribution. However, the project takes more efforts and time than I was expected, so I have to focus on my full time work.
 
 ## What to do?
 After several attempts to import model into KSP, I found some issues about materials and textures. I will redo texturing in the following days. 
